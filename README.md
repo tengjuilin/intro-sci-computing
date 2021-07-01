@@ -43,3 +43,7 @@ Note: Starred topics (*) are not covered in Sp20 but covered in [previous years]
 |Topic|Applications|Numerical Methods <br/> Python Skills|Jupyter <br/> Notebook|Online|
 |-|-|-|:-:|:-:|
 |Fourier transform*|Power spectrum density <br/> Noise filtering <br/> Image compression|Discrete Fourier transform <br/> Fast Fourier transform <br/> `numpy.fft.fft()` <br/> `numpy.fft.ifft()` <br/> `numpy.fft.fftfreq()` <br/> `numpy.fft.fft2()`|[ipynb](fourier-transform.ipynb)|[html](http://polarize.pw/equation-sheets/amath301/fourier-transform.html)|
+
+### Gallery
+
+https://user-images.githubusercontent.com/28213746/124108634-ec57e700-da98-11eb-884c-f9445fd4efa1.mp4
