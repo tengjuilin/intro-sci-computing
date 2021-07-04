@@ -37,6 +37,7 @@ Note: Starred topics (*) are not covered in Sp20 but covered in [previous years]
 ||Linear, nonlinear pendulum|`scipy.integrate.solve_ivp()`|[ipynb](phase-portrait-linear-nonlinear-pendulum.ipynb)|[html](http://polarize.pw/equation-sheets/amath301/phase-portrait-linear-nonlinear-pendulum.html)|
 ||Two-eyed monster|`scipy.integrate.solve_ivp()`|[ipynb](phase-portrait-two-eyed-monster.ipynb)|[html](http://polarize.pw/equation-sheets/amath301/phase-portrait-two-eyed-monster.html)|
 ||Population dynamics <br/> Predator-pray model <br/> Competition model|`scipy.integrate.solve_ivp()`|[ipynb](phase-portrait-population-dynamics.ipynb)|[html](http://polarize.pw/equation-sheets/amath301/phase-portrait-population-dynamics.html)|
+||FitzHugh-Nagumo neuron excitation model*|`scipy.integrate.solve_ivp()`|[ipynb](phase-portrait-neuron-excitation.ipynb)|[html](http://polarize.pw/equation-sheets/amath301/phase-portrait-neuron-excitation.html)|
 |Chaotic systems*|Lorenz system|`scipy.integrate.solve_ivp()`|[ipynb](chaotic-system-lorenz-system.ipynb)|[html](http://polarize.pw/equation-sheets/amath301/chaotic-system-lorenz-system.html)|
 
 ### Fourier Transform
@@ -47,3 +48,27 @@ Note: Starred topics (*) are not covered in Sp20 but covered in [previous years]
 ### Gallery
 
 https://user-images.githubusercontent.com/28213746/124108634-ec57e700-da98-11eb-884c-f9445fd4efa1.mp4
+
+https://user-images.githubusercontent.com/28213746/124387428-3f3bd380-dd11-11eb-8297-a28c8c1170b8.mp4
+
+https://user-images.githubusercontent.com/28213746/124387505-8c1faa00-dd11-11eb-99b6-60740dc88264.mp4
+
+https://user-images.githubusercontent.com/28213746/124387609-d9038080-dd11-11eb-8e8c-37d8c09eb30d.mp4
+
+https://user-images.githubusercontent.com/28213746/124387625-ede01400-dd11-11eb-88f5-e53396dfbff8.mp4
+
+https://user-images.githubusercontent.com/28213746/124387640-f6d0e580-dd11-11eb-86f3-d8cb12b9b5e2.mp4
+
+https://user-images.githubusercontent.com/28213746/124387672-0a7c4c00-dd12-11eb-9cd9-ea41135ca94c.mp4
+
+https://user-images.githubusercontent.com/28213746/124387684-1536e100-dd12-11eb-94b5-47e98224ebaf.mp4
+
+https://user-images.githubusercontent.com/28213746/124387692-19fb9500-dd12-11eb-9d0f-4748f6e39fba.mp4
+
+https://user-images.githubusercontent.com/28213746/124387700-1ff17600-dd12-11eb-81ff-67a58142ef7a.mp4
+
+https://user-images.githubusercontent.com/28213746/124387711-254ec080-dd12-11eb-83f2-d250d93c0c29.mp4
+
+https://user-images.githubusercontent.com/28213746/124387728-2ed82880-dd12-11eb-8916-d1a8bc9bb97e.mp4
+
+https://user-images.githubusercontent.com/28213746/124387757-4ca58d80-dd12-11eb-965e-fb88fcbfeda8.mp4
