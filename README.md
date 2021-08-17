@@ -3,13 +3,11 @@
 [![License](https://img.shields.io/github/license/tengjuilin/intro-sci-computing)](https://creativecommons.org/licenses/by/4.0/)
 [![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftengjuilin%2Fintro-sci-computing&count_bg=%233D6AC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits+%28daily%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Introduction
-
 AMATH 301 covers numerical methods and programming skills needed to solve physical, biological, and engineering problems. Content is transcribed from MATLAB (originally taught in the course) to Python for open source reference. Taken in Sp20 with Dr. Craig Gin.
 
 Note: Starred topics (*) are not covered in Sp20 but covered in [previous years](https://www.youtube.com/channel/UCEirPnFv_2QbvzrM67SnKPA/videos).
 
-### Root-Finding and Optimization
+## Root-Finding and Optimization
 
 |Topic|Applications|Numerical Methods <br/> Python Skills|Jupyter <br/> Notebook|Online|
 |-|-|-|:-:|:-:|
@@ -18,7 +16,7 @@ Note: Starred topics (*) are not covered in Sp20 but covered in [previous years]
 |Constrained optimization*|Finding max and min of functions with constraints|Linear programming <br/> Genetic algorithm <br/> `scipy.optimize.linprog()` <br/> `scipy.optimize.differential_evolution()`|[ipynb](root-finding-optimization/constrained-optimization.ipynb)|[html](https://tengjuilin.netlify.app/resources/intro-sci-computing/root-finding-optimization/constrained-optimization.html)|
 |Curve fitting and interpolation|Fitting data <br/> Interpolating between data|Sum of squared error <br/> Sum of absolute error <br/> Maximum absolute error <br/> `scipy.optimize.fmin()`<br/> `scipy.optimize.curve_fit()` <br/> `numpy.polyfit()` <br/> `numpy.polyval()` <br/> `scipy.interpolate.interp1d()`|[ipynb](root-finding-optimization/curve-fitting-interpolation.ipynb)|[html](https://tengjuilin.netlify.app/resources/intro-sci-computing/root-finding-optimization/curve-fitting-interpolation.html)|
 
-### Linear Algebra
+## Linear Algebra
 
 |Topic|Applications|Numerical Methods <br/> Python Skills|Jupyter <br/> Notebook|Online|
 |-|-|-|:-:|:-:|
@@ -27,14 +25,14 @@ Note: Starred topics (*) are not covered in Sp20 but covered in [previous years]
 |Solving linear systems <br/> with iterative methods|Solving sparse linear systems|Jacobi method <br/> Gauss-Seidel method <br/> `numpy.linalg.eig()` <br/> `numpy.linalg.eigvals()`|[ipynb](linear-algebra/solving-linear-system-iterative-method.ipynb)|[html](https://tengjuilin.netlify.app/resources/intro-sci-computing/linear-algebra/solving-linear-system-iterative-method.html)|
 |Singular value decomposition (SVD) <br/> (Principle component analysis, PCA)|Dimensionality reduction <br/> Image compression|SVD, PCA algorithm <br/> `scipy.linalg.svd()`|[ipynb](linear-algebra/singular-value-decomposition-pca.ipynb)|[html](https://tengjuilin.netlify.app/resources/intro-sci-computing/linear-algebra/singular-value-decomposition-pca.html)|
 
-### Numerical Calculus
+## Numerical Calculus
 
 |Topic|Applications|Numerical Methods <br/> Python Skills|Jupyter <br/> Notebook|Online|
 |-|-|-|:-:|:-:|
 |Numerical differentiation|Differentiate functions <br/> Differentiate data|Forward difference <br/> Backward difference <br/> Central difference <br/> Other second order methods <br/> `numpy.gradient()`|[ipynb](numerical-calculus/numerical-differentiation.ipynb)|[html](https://tengjuilin.netlify.app/resources/intro-sci-computing/numerical-calculus/numerical-differentiation.html)|
 |Numerical integration|Single integrals <br/> Double integrals <br/> Triple integrals <br/> (functions and data)|Left end point rule <br/> Right endpoint rule <br/> Midpoint rule <br/> Trapezoidal rule <br/> Simpson's rule <br/> `scipy.integrate.quad()` <br/> `scipy.integrate.dblquad()` <br/> `scipy.integrate.tplquad()`|[ipynb](numerical-calculus/numerical-integration.ipynb)|[html](https://tengjuilin.netlify.app/resources/intro-sci-computing/numerical-calculus/numerical-integration.html)|
 
-### Ordinary Differential Equations (ODEs)
+## Ordinary Differential Equations (ODEs)
 
 |Topic|Applications|Numerical Methods <br/> Python Skills|Jupyter <br/> Notebook|Online|
 |-|-|-|:-:|:-:|
@@ -48,13 +46,13 @@ Note: Starred topics (*) are not covered in Sp20 but covered in [previous years]
 ||FitzHugh-Nagumo neuron excitation model*|`scipy.integrate.solve_ivp()`|[ipynb](ode/phase-portrait-neuron-excitation.ipynb)|[html](https://tengjuilin.netlify.app/resources/intro-sci-computing/ode/phase-portrait-neuron-excitation.html)|
 |Chaotic systems*|Lorenz system|`scipy.integrate.solve_ivp()`|[ipynb](ode/chaotic-system-lorenz-system.ipynb)|[html](https://tengjuilin.netlify.app/resources/intro-sci-computing/ode/chaotic-system-lorenz-system.html)|
 
-### Fourier Transform
+## Fourier Transform
 
 |Topic|Applications|Numerical Methods <br/> Python Skills|Jupyter <br/> Notebook|Online|
 |-|-|-|:-:|:-:|
 |Fourier transform*|Power spectrum density <br/> Noise filtering <br/> Image compression|Discrete Fourier transform <br/> Fast Fourier transform <br/> `numpy.fft.fft()` <br/> `numpy.fft.ifft()` <br/> `numpy.fft.fftfreq()` <br/> `numpy.fft.fft2()`|[ipynb](fourier-transform/fourier-transform.ipynb)|[html](https://tengjuilin.netlify.app/resources/intro-sci-computing/fourier-transform/fourier-transform.html)|
 
-### Gallery
+## Gallery
 
 <https://user-images.githubusercontent.com/28213746/124108634-ec57e700-da98-11eb-884c-f9445fd4efa1.mp4>
 
