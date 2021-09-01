@@ -32,6 +32,7 @@ parts:
     - file: intro-sci-computing/phase-portrait-applications/population-dynamics
     - file: intro-sci-computing/phase-portrait-applications/neuron-excitation-1
     - file: intro-sci-computing/phase-portrait-applications/neuron-excitation-2
+    - file: intro-sci-computing/phase-portrait-applications/neuron-excitation-3
     - file: intro-sci-computing/phase-portrait-applications/coupled-harmonic-oscillator-internet
 - caption: Fourier Transform
   chapters:
