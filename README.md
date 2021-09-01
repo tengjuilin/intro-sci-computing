@@ -55,7 +55,7 @@ Note: Starred topics (*) are not covered in Sp20 but covered in [previous years]
 
 ## Gallery
 
-![](https://user-images.githubusercontent.com/28213746/124108634-ec57e700-da98-11eb-884c-f9445fd4efa1.mp4)
+<https://user-images.githubusercontent.com/28213746/124108634-ec57e700-da98-11eb-884c-f9445fd4efa1.mp4>
 
 <https://user-images.githubusercontent.com/28213746/124387428-3f3bd380-dd11-11eb-8297-a28c8c1170b8.mp4>
 
