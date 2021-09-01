@@ -26,12 +26,13 @@ parts:
     - file: intro-sci-computing/ode/chaotic-system-lorenz-system
 - caption: Phase Portrait Applications
   chapters:
-    - file: intro-sci-computing/ode/phase-portrait-spring-mass-damper
-    - file: intro-sci-computing/ode/phase-portrait-linear-nonlinear-pendulum
-    - file: intro-sci-computing/ode/phase-portrait-two-eyed-monster
-    - file: intro-sci-computing/ode/phase-portrait-population-dynamics
-    - file: intro-sci-computing/ode/phase-portrait-neuron-excitation
-    - file: intro-sci-computing/ode/phase-portrait-coupled-harmonic-oscillator-internet
+    - file: intro-sci-computing/phase-portrait-applications/spring-mass-damper
+    - file: intro-sci-computing/phase-portrait-applications/linear-nonlinear-pendulum
+    - file: intro-sci-computing/phase-portrait-applications/two-eyed-monster
+    - file: intro-sci-computing/phase-portrait-applications/population-dynamics
+    - file: intro-sci-computing/phase-portrait-applications/neuron-excitation-1
+    - file: intro-sci-computing/phase-portrait-applications/neuron-excitation-2
+    - file: intro-sci-computing/phase-portrait-applications/coupled-harmonic-oscillator-internet
 - caption: Fourier Transform
   chapters:
     - file: intro-sci-computing/fourier-transform/fourier-transform
