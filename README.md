@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/github/license/tengjuilin/intro-sci-computing)](https://creativecommons.org/licenses/by/4.0/)
 [![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fintro-sci-computing.netlify.app%2F)](https://intro-sci-computing.netlify.app/)
+[![DOI](https://zenodo.org/badge/380067498.svg)](https://zenodo.org/badge/latestdoi/380067498)
 
 AMATH 301 covers numerical methods and programming skills needed to solve physical, biological, and engineering problems. Content is transcribed from MATLAB (originally taught in the course) to Python for open source reference. Taken in Sp20 with Dr. Craig Gin.
 
